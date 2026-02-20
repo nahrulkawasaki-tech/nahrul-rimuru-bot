@@ -1,1 +1,15 @@
-
+{
+  "name": "nahrul-rimuru-bot",
+  "version": "1.0.0",
+  "description": "Nahrul × Rimuru WhatsApp Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.17.0",
+    "express": "^4.18.2"
+  }
+}
